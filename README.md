@@ -15,9 +15,7 @@ Hello! My name is **Jessie Mar**, a second-year **Arts Management student** with
 
 When I’m not studying or working, I’m usually hanging out with my eight-year-old cat, trying to keep my one surviving plant alive, exploring new exhibitions, traveling, or getting my hands messy with ceramics.
 
-![A silly photo of my cat.](https://github.com/jessiemar-mar/jessiemar-portfolio/blob/32de37274dfe5a45fcdd3fb3a4ef1d6194ea0f04/IMG_3885.jpeg)
-
-<img src="IMG_3885.jpeg" alt="Portfolio image" width="200">
+<img src="IMG_3885.jpeg" alt="Portfolio image" width="400">
 
 # What I hope to learn
 Here are the things I want to learn in this course and to apply these skills in marketing strategy, branding, mapping, audience segmentation, and survey design.
