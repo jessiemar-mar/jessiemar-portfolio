@@ -2,11 +2,11 @@
 
 # The cheapest countries to study in Europe
 
-In this critique, I apply principles from Good Charts and Stephen Few’s [Data Visualization Effectiveness Profile(https://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf) to evaluate and redesign a visualization from the article “The Cheapest Countries to Study in Europe.” The original chart—a shaded map of Europe showing total yearly study costs—provides a clear geographic frame but leaves gaps in precision, completeness, and audience alignment. To strengthen the critique, I also incorporate feedback from audience interviews, which reveal how real users interpret, struggle with, or disengage from the design. By combining theoretical frameworks with external perspectives, I will break down the visualization step by step, highlighting design trade-offs, contextual limitations, and opportunities for improvement. My goal is to demonstrate how thoughtful redesign choices, informed by both expert guidance and user feedback, can transform the chart into a more accurate, engaging, and decision-oriented tool for students evaluating study-abroad options.
+In this critique, I apply principles from Good Charts and Stephen Few’s [Data Visualization Effectiveness Profile](https://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf) to evaluate and redesign a visualization from the article “The Cheapest Countries to Study in Europe.” The original chart—a shaded map of Europe showing total yearly study costs—provides a clear geographic frame but leaves gaps in precision, completeness, and audience alignment. To strengthen the critique, I also incorporate feedback from audience interviews, which reveal how real users interpret, struggle with, or disengage from the design. By combining theoretical frameworks with external perspectives, I will break down the visualization step by step, highlighting design trade-offs, contextual limitations, and opportunities for improvement. My goal is to demonstrate how thoughtful redesign choices, informed by both expert guidance and user feedback, can transform the chart into a more accurate, engaging, and decision-oriented tool for students evaluating study-abroad options.
 
 ## Step one: the visualization
 
-<img src="Critic - Data Viz _Original.png" width="600"/>
+<img src="Critic - Data Viz _Original.png" width="800"/>
 
 I selected this particular data visualization from the article “The Cheapest Countries to Study in Europe” because study-abroad costs are a pressing concern for many international students, and the visualization attempts to summarize complex financial data in a way that is approachable for a general audience. Its accessibility and practical focus make it an ideal case for critique, as the stakes are high—misleading or incomplete representations could directly influence how students perceive affordability across different countries. As someone currently studying in the United States, where both tuition and living expenses are notably high, I am also curious to see how the costs of studying in Europe compare. This personal perspective makes the visualization especially relevant and engaging to analyze.
 
@@ -38,7 +38,7 @@ The data does not reflect this benefit. For example, Germany shows a tuition cos
 
 ## Step three: Sketch a solution
 
-<img src="Critic - Data Viz _Redesign.png" width="600"/>
+<img src="Critic - Data Viz _Redesign.png" width="800"/>
 
 **1. Redesign Focus: Breaking Down Costs**
 - Decision: Separate the total yearly cost into tuition fees and living expenses, instead of showing only a combined figure.
