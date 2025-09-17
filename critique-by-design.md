@@ -10,7 +10,7 @@ In this critique, I apply principles from Good Charts and Stephen Few’s [Data 
 
 I selected this particular data visualization from the article “The Cheapest Countries to Study in Europe” because study-abroad costs are a pressing concern for many international students, and the visualization attempts to summarize complex financial data in a way that is approachable for a general audience. Its accessibility and practical focus make it an ideal case for critique, as the stakes are high—misleading or incomplete representations could directly influence how students perceive affordability across different countries. As someone currently studying in the United States, where both tuition and living expenses are notably high, I am also curious to see how the costs of studying in Europe compare. This personal perspective makes the visualization especially relevant and engaging to analyze.
 
-**Citation**: Boyle, Matthew, and Sophie Barber. “The Cheapest Countries to Study in Europe.” Finder UK. Updated July 11, 2024. Accessed September 17, 2025. https://www.finder.com/uk/current-accounts/student-bank-accounts/cheapest-countries-to-study-europe
+**Citation**: Boyle, Matthew, and Sophie Barber. “The Cheapest Countries to Study in Europe.” Finder UK. Updated July 11, 2024. Accessed September 17, 2025. [https://www.finder.com/uk/current-accounts/student-bank-accounts/cheapest-countries-to-study-europe](https://www.finder.com/uk/current-accounts/student-bank-accounts/cheapest-countries-to-study-europe)
 
 
 ## Step two: the critique
