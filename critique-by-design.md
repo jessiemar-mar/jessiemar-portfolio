@@ -1,6 +1,6 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# The cheapest countries to study in Europe
+# The Cheapest Countries to Study in Europe
 
 In this critique, I apply principles from Good Charts and Stephen Few’s [Data Visualization Effectiveness Profile](https://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf) to evaluate and redesign a visualization from the article “The Cheapest Countries to Study in Europe.” The original chart—a shaded map of Europe showing total yearly study costs—provides a clear geographic frame but leaves gaps in precision, completeness, and audience alignment. To strengthen the critique, I also incorporate feedback from audience interviews, which reveal how real users interpret, struggle with, or disengage from the design. By combining theoretical frameworks with external perspectives, I will break down the visualization step by step, highlighting design trade-offs, contextual limitations, and opportunities for improvement. My goal is to demonstrate how thoughtful redesign choices, informed by both expert guidance and user feedback, can transform the chart into a more accurate, engaging, and decision-oriented tool for students evaluating study-abroad options.
 
