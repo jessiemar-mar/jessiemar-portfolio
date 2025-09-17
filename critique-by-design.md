@@ -48,25 +48,25 @@ The data does not reflect this benefit. For example, Germany shows a tuition cos
 **2. Visualization Method**
 - Decision: Use a stacked bar chart with countries ranked from highest to lowest total cost, and bars divided into tuition and living segments labeled with values and percentages. Use green for yearly living costs and yellow for average yearly tuition fees to create a clear visual contrast between the two components.
 - Reasoning:
-• A stacked bar chart supports side-by-side comparison while still showing the contribution of each cost component.
-• Sorting by total cost makes it easy for audiences to see rankings clearly without needing to scan back and forth across a map.
-•	Labels and segment shares provide both absolute numbers and proportional context, helping students evaluate not just “how much” but also what matters most.
-•	The color contrast ensures the two data types are immediately distinguishable, reinforcing the breakdown and making the chart more accessible and visually intuitive.
+  - A stacked bar chart supports side-by-side comparison while still showing the contribution of each cost component.
+  - Sorting by total cost makes it easy for audiences to see rankings clearly without needing to scan back and forth across a map.
+  - Labels and segment shares provide both absolute numbers and proportional context, helping students evaluate not just “how much” but also what matters most.
+  - The color contrast ensures the two data types are immediately distinguishable, reinforcing the breakdown and making the chart more accessible and visually intuitive.
 
 **3. Context & Accuracy: Defining the Audience**
 - Decision: Update the title to clarify that the data reflects costs for non-EU (international) students by changing it to: “Total Annual Cost of Studying in Europe for Non-EU Students).”
 - Reasoning: EU residents often pay no tuition in many countries, so failing to specify the scope could mislead audiences into believing the data applies universally. Explicitly stating the scope:
-• Prevents misinterpretation.
-• Builds trust in the visualization by being transparent.
-• Ensures the data is actionable for the correct audience (primarily non-EU students).
+  - Prevents misinterpretation.
+  - Builds trust in the visualization by being transparent.
+  - Ensures the data is actionable for the correct audience (primarily non-EU students).
 
 **4. Transparency & Source Note**
 - Decision: Include a note at the bottom of the visualization explaining the scope, assumptions, and source. The note reads:
 “Data was collected for 28 European countries and converted into GBP (£) as of July 2024. Actual expenses may vary depending on university, city, program type, and lifestyle choices. In many countries, EU residents are eligible for free or reduced tuition, so the costs presented here may apply specifically to international (non-EU) students.” The original source is cited alongside this note.
 - Reasoning:
-•	Acknowledges uncertainties and variability in actual costs, helping prevent overgeneralization or misinterpretation.
-•	Clarifies that the data likely applies to non-EU students, addressing a limitation in the original source, which did not clearly specify methodology.
-•	Citing the source ensures transparency and credibility, making the visualization more trustworthy for decision-making.
+  - Acknowledges uncertainties and variability in actual costs, helping prevent overgeneralization or misinterpretation.
+  - Clarifies that the data likely applies to non-EU students, addressing a limitation in the original source, which did not clearly specify methodology.
+  - Citing the source ensures transparency and credibility, making the visualization more trustworthy for decision-making.
 
 
 ## Step four: Test the solution
@@ -85,12 +85,11 @@ First, all participants noticed areas where clarity could be improved. For examp
 The interviews showed me that while the overall data presentation was understandable, there are specific design choices that hinder quick interpretation. Small font size, lack of clear separation between elements, and the overwhelming number of stacked bars made it harder for viewers to grasp the key insights without extra effort. I also learned that my assumption about the usefulness of regional grouping may not hold true for my audience — participants felt more comfortable making sense of data when it was presented by individual country.
 
 **In Class Feedback:**
-I also received feedback from classmates suggesting more detailed information on living costs (rent, utilities, transportation) and a clearer title, such as adding “The Cheapest” or “The Most Expensive” European country to study for Non-EU students. Because the chart includes many countries, it can be difficult for the audience to compare and focus on the main cost indicators. Reducing the list to the top 10 most popular European countries for international students, ranked by the dataset, would make it more digestible. Finally, the contrast between the yellow and green bars is too strong, drawing attention almost entirely to the green bar and overshadowing the total yearly cost.
+I also received feedback from classmates suggesting more detailed information on living costs (rent, utilities, transportation) and a clearer title, such as adding “The Cheapest” or “The Most Expensive” European country to study for Non-EU students. Because the chart includes many countries, its length makes comparisons difficult, especially with the top x-axis variables. Reducing the list to the top 10 most popular European countries for international students, ranked by the dataset, would make it more digestible. Finally, the contrast between the yellow and green bars is too strong, drawing attention almost entirely to the green bar and overshadowing the total yearly cost.
 
 ## Step five: build the solution
 
-For the redesign, I decided to reduce the number of countries in the dataset. I found another resource, Top 10 Places in Europe to Study Abroad in 2025 (https://www.educations.com/top-10-lists/top-10-places-to-study-abroad-europe-18099
-), and focused on comparing total study costs for these countries, since students might be most likely interested in these countries rather than others. In my chart, however, there are only nine countries because my original dataset did not include total cost data for Switzerland, which ranks as the second most popular study destination.
+For the redesign, I decided to reduce the number of countries in the dataset. I found another resource, Top 10 Places in Europe to Study Abroad in 2025 (https://www.educations.com/top-10-lists/top-10-places-to-study-abroad-europe-18099), and focused on comparing total study costs for these countries, since students might be most likely interested in these countries rather than others. In my chart, however, there are only nine countries because my original dataset did not include total cost data for Switzerland, which ranks as the second most popular study destination.
 
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
