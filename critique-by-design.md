@@ -70,34 +70,19 @@ o	The color contrast ensures the two data types are immediately distinguishable,
 
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
-
-Questions to ask (modify these for your own interviews): 
-
-- Can you tell me what you think this is?
-
-- Can you describe to me what this is telling you?
-
-- Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
-
-- Is there anything you would change or do differently?
+To gather feedback on my visualization, I conducted interviews using five guiding questions. Some of the questions were intentionally framed around areas where I was uncertain about my design choices, which I later realized could introduce a degree of bias. Still, the responses provided valuable insights into how viewers interpret and interact with my work. It was especially interesting to see where participants agreed, where they diverged, and how their backgrounds shaped their perspectives.
 
 Results: 
+<img src="Interview Table.png" width="1000"/>
 
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
-
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+Besides, I also received feedback from my classmate, which they would like to see more specifiy information in living cost (rent, utility, transportation), also, changing the title to be more specific, such as adding "The Cheapest" or " The Most Expensive" European country to study for Non-EU student. 
 
 Synthesis: 
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+**Patterns in the Feedback:**
+First, all participants noticed areas where clarity could be improved. For example, Interviewer 1 found the placement of numbers confusing and suggested clearer separation of the green and yellow bars, while Interviewer 2 and 3 pointed out issues with overwhelming data density and small font size. A second pattern was the preference for country-level comparisons rather than regional groupings. Interviewers expressed that regions did not feel meaningful without more context, while individual countries were easier to recognize. Finally, multiple participants highlighted a desire for better visual hierarchy and categorization — whether through highlighting cheapest/most expensive groups, clearer borders, or slight color adjustments.
+
+The interviews showed me that while the overall data presentation was understandable, there are specific design choices that hinder quick interpretation. Small font size, lack of clear separation between elements, and the overwhelming number of stacked bars made it harder for viewers to grasp the key insights without extra effort. I also learned that my assumption about the usefulness of regional grouping may not hold true for my audience — participants felt more comfortable making sense of data when it was presented by individual country.
 
 ## Step five: build the solution
 
