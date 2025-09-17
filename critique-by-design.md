@@ -88,6 +88,9 @@ I also received feedback from classmates suggesting more detailed information on
 
 ## Step five: build the solution
 
+For the redesign, I decided to reduce the number of countries in the dataset. I found another resource, Top 10 Places in Europe to Study Abroad in 2025 (https://www.educations.com/top-10-lists/top-10-places-to-study-abroad-europe-18099
+), and focused on comparing total study costs for these countries, since students might be most likely interested in these countries rather than others. In my chart, however, there are only nine countries because my original dataset did not include total cost data for Switzerland, which ranks as the second most popular study destination.
+
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
 ## References
