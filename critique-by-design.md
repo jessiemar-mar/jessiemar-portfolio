@@ -98,8 +98,8 @@ For the redesign, I decided to reduce the number of countries in the dataset. I 
 Reducing the number of countries makes the chart easier to follow and keeps the audience engaged without overwhelming detail. I also adjusted the bar colors to different shades of green, so the two variables no longer compete visually as strongly as before. I revised the title to “Nine Popular European Countries for Non-EU Students” to clearly signal the focus, rather than framing it as simply the cheapest or most expensive countries. I also added arrows to highlight the lowest and highest annual costs, drawing attention to key comparisons. For the note, I kept only the source citation rather than a long explanation, allowing the audience to click through the links to learn more about how the data was collected.
 
 ## References
-Finder. “The Cheapest Countries to Study in Europe.” Finder UK, July 11, 2024. https://www.finder.com/uk/current-accounts/student-bank-accounts/cheapest-countries-to-study-europe
-Educations.com. “Top 10 Places in Europe to Study Abroad - 2025.” Educations.com, June 17, 2025. https://www.educations.com/top-10-lists/top-10-places-to-study-abroad-europe-18099
+Finder. “The Cheapest Countries to Study in Europe.” Finder UK, July 11, 2024. [https://www.finder.com/uk/current-accounts/student-bank-accounts/cheapest-countries-to-study-europe](https://www.finder.com/uk/current-accounts/student-bank-accounts/cheapest-countries-to-study-europe)
+Educations.com. “Top 10 Places in Europe to Study Abroad - 2025.” Educations.com, June 17, 2025. [https://www.educations.com/top-10-lists/top-10-places-to-study-abroad-europe-18099](https://www.educations.com/top-10-lists/top-10-places-to-study-abroad-europe-18099)
 
 ## AI acknowledgements
 Using ChatGPT for grammar improvement, GitHub coding support, enhancing clarity in data visualization, and citation formatting.
