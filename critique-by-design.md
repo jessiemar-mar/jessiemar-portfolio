@@ -6,7 +6,7 @@ In this critique, I apply principles from Good Charts and Stephen Few’s Data V
 
 ## Step one: the visualization
 
-<img src="Critic - Data Viz _Original.png" width="200"/>
+<img src="Critic - Data Viz _Original.png" width="600"/>
 
 Article: [The cheapest countries to study in Europe](https://www.finder.com/uk/current-accounts/student-bank-accounts/cheapest-countries-to-study-europe)
 
