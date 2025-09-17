@@ -34,7 +34,7 @@ Here are the things I want to learn in this course and to apply these skills in 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+## Assignment: [Visualizing overnment Debt](https://jessiemar-mar.github.io/jessiemar-portfolio/dataviz-examples)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
 ## Assignment 3&4: [Critique by Design](https://jessiemar-mar.github.io/jessiemar-portfolio/critique-by-design)
@@ -42,9 +42,9 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 
 ## Final project
 Here it might be helpful to include a high-level description of your final project. 
-[Part I](final-project-part-one)
-[Part II](final-project-part-two)
-Part III(final-project-part-three)
+[Part I](https://jessiemar-mar.github.io/jessiemar-portfolio/final-project-part-one)
+[Part II](https://jessiemar-mar.github.io/jessiemar-portfolio/final-project-part-two)
+[Part III](https://jessiemar-mar.github.io/jessiemar-portfolio/final-project-part-three)
 
 ---
 ## Other stuff you can do (you can remove this section - it's just for your reference.)
