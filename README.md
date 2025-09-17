@@ -27,10 +27,6 @@ Here are the things I want to learn in this course and to apply these skills in 
 3. **Data Visualization in Motion**: Exploring how motion can be used to enhance storytelling with data and capture the audience’s attention.
 
 # Portfolio
-- **Working with Tableau: Visualizing Government Debt**:
-
-Part 2: 
-
 
 - Data Visualization Workshops
 - Final Project
