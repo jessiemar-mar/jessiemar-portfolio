@@ -21,6 +21,7 @@ I selected this particular data visualization from the article “The Cheapest C
 - The title is clear and aligned with the data, making the visualization accessible and easy to read.
 
 **2. Simplicity and Engagement**
+
 The color gradient (darkest blue = highest cost, lightest = lowest) keeps the design simple and easy to interpret. However, this simplicity also creates drawbacks:
 - It is difficult to compare countries precisely or rank them by cost.
 - Once the cheapest and most expensive countries are identified, there is little incentive to keep exploring, since the audience must spend extra effort comparing gradients.
