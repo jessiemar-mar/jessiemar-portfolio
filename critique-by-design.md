@@ -39,7 +39,7 @@ The data does not reflect this benefit. For example, Germany shows a tuition cos
 
 ## Step three: Sketch a solution
 
-<iframe title="Total Annual Cost of Studying in Europe for Non-EU Students" aria-label="Stacked Bars" id="datawrapper-chart-MCSZo" src="https://datawrapper.dwcdn.net/MCSZo/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1269" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}})}();
+<iframe title="Total Annual Cost of Studying in Europe for Non-EU Students" aria-label="Stacked Bars" id="datawrapper-chart-MCSZo" src="https://datawrapper.dwcdn.net/MCSZo/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1000" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}})}();
 </script>
 
 **1. Redesign Focus: Breaking Down Costs**
