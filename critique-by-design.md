@@ -1,13 +1,17 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Title
-Text here...
+# The cheapest countries to study in Europe
 
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
-
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
+In this critique, I apply principles from Good Charts and Stephen Few’s Data Visualization Effectiveness Profile to evaluate and redesign a visualization from the article “The Cheapest Countries to Study in Europe.” The original chart—a shaded map of Europe showing total yearly study costs—provides a clear geographic frame but leaves gaps in precision, completeness, and audience alignment. To strengthen the critique, I also incorporate feedback from audience interviews, which reveal how real users interpret, struggle with, or disengage from the design. By combining theoretical frameworks with external perspectives, I will break down the visualization step by step, highlighting design trade-offs, contextual limitations, and opportunities for improvement. My goal is to demonstrate how thoughtful redesign choices, informed by both expert guidance and user feedback, can transform the chart into a more accurate, engaging, and decision-oriented tool for students evaluating study-abroad options.
 
 ## Step one: the visualization
+
+<img src="Critic - Data Viz _Original.png" width="200"/>
+
+Article: [The cheapest countries to study in Europe](https://www.finder.com/uk/current-accounts/student-bank-accounts/cheapest-countries-to-study-europe)
+
+Citation: Boyle, Matthew, and Sophie Barber. “The Cheapest Countries to Study in Europe.” Finder UK. Updated July 11, 2024. Accessed September 17, 2025. https://www.finder.com/uk/current-accounts/student-bank-accounts/cheapest-countries-to-study-europe
+
 
 _Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
 
