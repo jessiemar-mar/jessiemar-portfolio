@@ -42,6 +42,7 @@ The data does not reflect this benefit. For example, Germany shows a tuition cos
 <iframe title="Total Annual Cost of Studying in Europe for Non-EU Students" aria-label="Stacked Bars" id="datawrapper-chart-MCSZo" src="https://datawrapper.dwcdn.net/MCSZo/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1000" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}})}();
 </script>
 
+
 **1. Redesign Focus: Breaking Down Costs**
 - Decision: Separate the total yearly cost into tuition fees and living expenses, instead of showing only a combined figure.
 - Reasoning: Students making study-abroad decisions often weigh these two factors differently. Some prioritize keeping tuition low, while others may accept higher tuition if living costs are more manageable.  Presenting them separately gives students a more realistic view of trade-offs and avoids oversimplification.
@@ -92,10 +93,14 @@ I also received feedback from classmates suggesting more detailed information on
 </script>
 
 
+For the redesign, I decided to reduce the number of countries in the dataset. I used another resource, ,[Top 10 Places in Europe to Study Abroad in 2025](https://www.educations.com/top-10-lists/top-10-places-to-study-abroad-europe-18099), and focused on comparing total study costs for these top European destinations, since students are more likely to be interested in them than in other countries. In my chart, however, there are only nine countries because my original dataset did not include total cost data for Switzerland, which ranks as the second most popular study destination.
+
+Reducing the number of countries makes the chart easier to follow and keeps the audience engaged without overwhelming detail. I also adjusted the bar colors to different shades of green, so the two variables no longer compete visually as strongly as before. I revised the title to “Nine Popular European Countries for Non-EU Students” to clearly signal the focus, rather than framing it as simply the cheapest or most expensive countries. I also added arrows to highlight the lowest and highest annual costs, drawing attention to key comparisons. For the note, I kept only the source citation rather than a long explanation, allowing the audience to click through the links to learn more about how the data was collected.
 
 ## References
-_List any references you used here._
+Finder. “The Cheapest Countries to Study in Europe.” Finder UK, July 11, 2024. https://www.finder.com/uk/current-accounts/student-bank-accounts/cheapest-countries-to-study-europe
+Educations.com. “Top 10 Places in Europe to Study Abroad - 2025.” Educations.com, June 17, 2025. https://www.educations.com/top-10-lists/top-10-places-to-study-abroad-europe-18099
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+Using ChatGPT for grammar improvement, GitHub coding support, enhancing clarity in data visualization, and citation formatting.
 
