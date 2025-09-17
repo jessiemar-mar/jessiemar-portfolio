@@ -6,7 +6,7 @@ In this critique, I apply principles from Good Charts and Stephen Few’s [Data 
 
 ## Step one: the visualization
 
-<img src="Critic - Data Viz _Original.png" width="800"/>
+<img src="Critic - Data Viz _Original.png" width="1000"/>
 
 I selected this particular data visualization from the article “The Cheapest Countries to Study in Europe” because study-abroad costs are a pressing concern for many international students, and the visualization attempts to summarize complex financial data in a way that is approachable for a general audience. Its accessibility and practical focus make it an ideal case for critique, as the stakes are high—misleading or incomplete representations could directly influence how students perceive affordability across different countries. As someone currently studying in the United States, where both tuition and living expenses are notably high, I am also curious to see how the costs of studying in Europe compare. This personal perspective makes the visualization especially relevant and engaging to analyze.
 
@@ -38,7 +38,7 @@ The data does not reflect this benefit. For example, Germany shows a tuition cos
 
 ## Step three: Sketch a solution
 
-<img src="Critic - Data Viz _Redesign.png" width="800"/>
+<img src="Critic - Data Viz _Redesign.png" width="1200"/>
 
 **1. Redesign Focus: Breaking Down Costs**
 - Decision: Separate the total yearly cost into tuition fees and living expenses, instead of showing only a combined figure.
