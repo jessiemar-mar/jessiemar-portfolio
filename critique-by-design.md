@@ -41,6 +41,9 @@ The data does not reflect this benefit. For example, Germany shows a tuition cos
 
 <img src="Critic - Data Viz _Redesign.png" width="1200"/>
 
+<iframe title="Total Annual Cost of Studying in Europe for Non-EU Students" aria-label="Stacked Bars" id="datawrapper-chart-MCSZo" src="https://datawrapper.dwcdn.net/MCSZo/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1269" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}})}();
+</script>
+
 **1. Redesign Focus: Breaking Down Costs**
 - Decision: Separate the total yearly cost into tuition fees and living expenses, instead of showing only a combined figure.
 - Reasoning: Students making study-abroad decisions often weigh these two factors differently. Some prioritize keeping tuition low, while others may accept higher tuition if living costs are more manageable.  Presenting them separately gives students a more realistic view of trade-offs and avoids oversimplification.
@@ -87,9 +90,12 @@ I also received feedback from classmates suggesting more detailed information on
 
 ## Step five: build the solution
 
-For the redesign, I decided to reduce the number of countries in the dataset. I found another resource, Top 10 Places in Europe to Study Abroad in 2025 (https://www.educations.com/top-10-lists/top-10-places-to-study-abroad-europe-18099), and focused on comparing total study costs for these countries, since students might be most likely interested in these countries rather than others. In my chart, however, there are only nine countries because my original dataset did not include total cost data for Switzerland, which ranks as the second most popular study destination.
+<img src="Redesign - 2.png" width="1000"/>
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+<iframe title="Annual Cost to Study in Nine Popular European Countries for Non-EU Students" aria-label="Stacked Bars" id="datawrapper-chart-KScuH" src="https://datawrapper.dwcdn.net/KScuH/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="518" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}})}();
+</script>
+
+
 
 ## References
 _List any references you used here._
