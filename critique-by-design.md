@@ -16,9 +16,9 @@ I selected this particular data visualization from the article “The Cheapest C
 ## Step two: the critique
 
 **1. First Impressions & Design Strengths**
-•	The visualization uses a map of Europe with a gradient legend to show total yearly study costs.
-•	The geographic framing is intuitive—audiences immediately connect the shading to cost differences across countries.
-•	The title is clear and aligned with the data, making the visualization accessible and easy to read.
+- The visualization uses a map of Europe with a gradient legend to show total yearly study costs.
+- The geographic framing is intuitive—audiences immediately connect the shading to cost differences across countries.
+- The title is clear and aligned with the data, making the visualization accessible and easy to read.
 
 **2. Simplicity and Engagement**
 The color gradient (darkest blue = highest cost, lightest = lowest) keeps the design simple and easy to interpret. However, this simplicity also creates drawbacks:
@@ -47,13 +47,13 @@ The data does not reflect this benefit. For example, Germany shows a tuition cos
 **2. Visualization Method**
 - Decision: Use a stacked bar chart with countries ranked from highest to lowest total cost, and bars divided into tuition and living segments labeled with values and percentages. Use green for yearly living costs and yellow for average yearly tuition fees to create a clear visual contrast between the two components.
 - Reasoning:
-o	A stacked bar chart supports side-by-side comparison while still showing the contribution of each cost component.
-o	Sorting by total cost makes it easy for audiences to see rankings clearly without needing to scan back and forth across a map.
-o	Labels and segment shares provide both absolute numbers and proportional context, helping students evaluate not just “how much” but also what matters most.
-o	The color contrast ensures the two data types are immediately distinguishable, reinforcing the breakdown and making the chart more accessible and visually intuitive.
+• A stacked bar chart supports side-by-side comparison while still showing the contribution of each cost component.
+• Sorting by total cost makes it easy for audiences to see rankings clearly without needing to scan back and forth across a map.
+•	Labels and segment shares provide both absolute numbers and proportional context, helping students evaluate not just “how much” but also what matters most.
+•	The color contrast ensures the two data types are immediately distinguishable, reinforcing the breakdown and making the chart more accessible and visually intuitive.
 
 **3. Context & Accuracy: Defining the Audience**
-- Decision: Clarify that the chart reflects costs for non-EU (international) students.
+- Decision: Update the title to clarify that the data reflects costs for non-EU (international) students by changing it to: “Total Annual Cost of Studying in Europe for Non-EU Students).”
 - Reasoning: EU residents often pay no tuition in many countries, so failing to specify the scope could mislead audiences into believing the data applies universally. Explicitly stating the scope:
 • Prevents misinterpretation.
 • Builds trust in the visualization by being transparent.
@@ -72,17 +72,19 @@ o	The color contrast ensures the two data types are immediately distinguishable,
 
 To gather feedback on my visualization, I conducted interviews using five guiding questions. Some of the questions were intentionally framed around areas where I was uncertain about my design choices, which I later realized could introduce a degree of bias. Still, the responses provided valuable insights into how viewers interpret and interact with my work. It was especially interesting to see where participants agreed, where they diverged, and how their backgrounds shaped their perspectives.
 
-Results: 
+### Results: 
+
 <img src="Interview Table.png" width="1000"/>
 
-Besides, I also received feedback from my classmate, which they would like to see more specifiy information in living cost (rent, utility, transportation), also, changing the title to be more specific, such as adding "The Cheapest" or " The Most Expensive" European country to study for Non-EU student. 
-
-Synthesis: 
+### Synthesis: 
 
 **Patterns in the Feedback:**
 First, all participants noticed areas where clarity could be improved. For example, Interviewer 1 found the placement of numbers confusing and suggested clearer separation of the green and yellow bars, while Interviewer 2 and 3 pointed out issues with overwhelming data density and small font size. A second pattern was the preference for country-level comparisons rather than regional groupings. Interviewers expressed that regions did not feel meaningful without more context, while individual countries were easier to recognize. Finally, multiple participants highlighted a desire for better visual hierarchy and categorization — whether through highlighting cheapest/most expensive groups, clearer borders, or slight color adjustments.
 
 The interviews showed me that while the overall data presentation was understandable, there are specific design choices that hinder quick interpretation. Small font size, lack of clear separation between elements, and the overwhelming number of stacked bars made it harder for viewers to grasp the key insights without extra effort. I also learned that my assumption about the usefulness of regional grouping may not hold true for my audience — participants felt more comfortable making sense of data when it was presented by individual country.
+
+**In Class Feedback:**
+I also received feedback from classmates suggesting more detailed information on living costs (rent, utilities, transportation) and a clearer title, such as adding “The Cheapest” or “The Most Expensive” European country to study for Non-EU students. Because the chart includes many countries, it can be difficult for the audience to compare and focus on the main cost indicators. Reducing the list to the top 10 most popular European countries for international students, ranked by the dataset, would make it more digestible. Finally, the contrast between the yellow and green bars is too strong, drawing attention almost entirely to the green bar and overshadowing the total yearly cost.
 
 ## Step five: build the solution
 
