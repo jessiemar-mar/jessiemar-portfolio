@@ -39,8 +39,6 @@ The data does not reflect this benefit. For example, Germany shows a tuition cos
 
 ## Step three: Sketch a solution
 
-<img src="Critic - Data Viz _Redesign.png" width="1200"/>
-
 <iframe title="Total Annual Cost of Studying in Europe for Non-EU Students" aria-label="Stacked Bars" id="datawrapper-chart-MCSZo" src="https://datawrapper.dwcdn.net/MCSZo/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1269" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}})}();
 </script>
 
@@ -89,8 +87,6 @@ Overall data presentation was understandable, there are specific design choices 
 I also received feedback from classmates suggesting more detailed information on living costs (rent, utilities, transportation) and a clearer title, such as adding “The Cheapest” or “The Most Expensive” European country to study for Non-EU students. Because the chart includes many countries, its length makes comparisons difficult, especially with the top x-axis variables. Reducing the list to the top 10 most popular European countries for international students, ranked by the dataset, would make it more digestible. Finally, the contrast between the yellow and green bars is too strong, drawing attention almost entirely to the green bar and overshadowing the total yearly cost.
 
 ## Step five: build the solution
-
-<img src="Redesign - 2.png" width="1000"/>
 
 <iframe title="Annual Cost to Study in Nine Popular European Countries for Non-EU Students" aria-label="Stacked Bars" id="datawrapper-chart-KScuH" src="https://datawrapper.dwcdn.net/KScuH/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="518" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}})}();
 </script>
