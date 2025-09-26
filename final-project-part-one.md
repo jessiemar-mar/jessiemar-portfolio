@@ -24,7 +24,7 @@ Through this project, I aim to highlight the importance of exhibitions and digit
 - Framing Point: Arts and culture are not just leisure activities — they are major contributors to the economy and employment, making museums vital players in this ecosystem.
 
 ### 2. Importance of Museums – Public Participation and Engagement
-- **2020 Arts Basic Survey**: Forms of arts participation (live events vs. personally creating art). Selected from Top 10 states based on SMU DataArts Arts Vibry ranking in 2024. 
+- **2020 Arts Basic Survey**: Forms of arts participation (Attend or Visit Art vs. Use a Device to Access Art). Selected from Top 10 states based on SMU DataArts Arts Vibry ranking in 2024. 
 - **Measuring the Art**: How Often Do People Attend and/or Consume Arts? 
 - Framing Point: Museums are a key touchpoint for cultural participation, proving their relevance to both local and national audiences.
 
