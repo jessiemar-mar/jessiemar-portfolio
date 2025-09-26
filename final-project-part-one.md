@@ -17,6 +17,37 @@ Through this project, I aim to highlight the importance of exhibitions and digit
 
 <img src="IMG_4323.jpeg" alt="Portfolio image" width="800">
 
+## Project Structure
+### 1. Beginning – Arts and Museums as Economic and Cultural Drivers
+- **State-Level Estimates of the Arts’ Economic Value and Employment (2001–2023)**: Value added to each state’s economy by the arts.
+- **U.S. Arts and Cultural Production Satellite Account**: Type of production of arts and cultural goods and their contribution to the U.S. economy and annual growth.
+- Framing Point: Arts and culture are not just leisure activities — they are major contributors to the economy and employment, making museums vital players in this ecosystem.
+
+### 2. Importance of Museums – Public Participation and Engagement
+- **2020 Arts Basic Survey**: Forms of arts participation (live events vs. personally creating art). Selected from Top 10 states based on SMU DataArts Arts Vibry ranking in 2024. 
+- **Measuring the Art**: How Often Do People Attend and/or Consume Arts? 
+- Framing Point: Museums are a key touchpoint for cultural participation, proving their relevance to both local and national audiences.
+
+### 3. Exhibitions as the Core of Museums
+- **Art Museums by the Numbers 2018 (AAMD)**: Museum operating budgets highlight exhibitions as a central function, representing the largest proportion of overall expenses.
+- **Occupations & Staffing (DataUSA)**:Occupations by industries, salaries, major, education levels in archivists, curators, and museum technicians. 
+- Framing Point: Exhibitions are resource-intensive, driving staffing needs and budgets, and thus must remain a priority in museum planning and funding.
+
+### 4. Evolution of Digital Collections – Expanding Access and Expectations
+- **Major Museum Digital Collections**: Data from leading museums with open access — MoMA, The Met, National Gallery of Art, and the Cleveland Museum of Art — consolidating the number of artworks online by category, average year, and artistic genre.
+- **Audience Expectations of Museums Online**: Public attitudes toward digital access and museum websites.
+Framing Point: Digital collections are increasingly viewed as core infrastructure for museums, expanding access beyond physical visitors. 
+
+### 5. Conclusion – Why Funding and Awareness Matter
+Synthesis:
+- Arts = mMjor economic and cultural sector
+- Museums = Participation hubs
+- Exhibitions = Operational core
+- Digital collections = Further accessibility 
+
+Call to Action: To maintain relevance and accessibility, museums must secure funding and raise awareness for both exhibitions and digital infrastructure. Stakeholders — including philanthropists, donors, and newly established museums — should view these areas as investments in education, research, and long-term audience engagement.
+
+
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
