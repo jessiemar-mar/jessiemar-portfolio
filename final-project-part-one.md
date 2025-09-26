@@ -19,8 +19,8 @@ Through this project, I aim to highlight the importance of exhibitions and digit
 
 ## Project Structure
 ### 1. Beginning – Arts and Museums as Economic and Cultural Drivers
- **1.1 State-Level Estimates of the Arts’ Economic Value and Employment (2001–2023)**: Value added to each state’s economy by the arts.
- **1.2 U.S. Arts and Cultural Production Satellite Account**: Type of production of arts and cultural goods and their contribution to the U.S. economy and annual growth.
+ **1.1 - State-Level Estimates of the Arts’ Economic Value and Employment (2001–2023)**: Value added to each state’s economy by the arts.
+ **1.2 - U.S. Arts and Cultural Production Satellite Account**: Type of production of arts and cultural goods and their contribution to the U.S. economy and annual growth.
 - Framing Point: Arts and culture are not just leisure activities — they are major contributors to the economy and employment, making museums vital players in this ecosystem.
 
 ### 2. Importance of Museums – Public Participation and Engagement
