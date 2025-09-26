@@ -103,10 +103,12 @@ The final group of datasets focuses on digital collections. Open-access collecti
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
 
-Text here...
+For my final project, I plan to use Shorthand, Datawrapper, and Tableau as my primary tools. Before beginning the fabrication of data visualizations, I will develop a moodboard to establish the branding and visual direction of the project. This will guide my creative choices and ensure a consistent style throughout. I also intend to create a persona to help tailor headlines and subheadlines in language that resonates with my target audience.
+
+For data preparation, I will first use Excel for cleaning and consolidating datasets, particularly the large-scale open-access digital collection data from museums. Once I have organized clean sheets of data, I will implement them in Datawrapper and Tableau to design interactive, engaging visualizations. These will then be integrated into Shorthand to build a cohesive, narrative-driven final deliverable.
 
 ## References
 _List any references you used here._
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I used AI to support this assignment by helping me research relevant data sources and proofread grammar and spelling in my writing.
