@@ -46,7 +46,6 @@ Synthesis:
 
 Call to Action: To maintain relevance and accessibility, museums must secure funding and raise awareness for both exhibitions and digital infrastructure. Stakeholders — including philanthropists, donors, and newly established museums — should view these areas as investments in education, research, and long-term audience engagement.
 
-
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
