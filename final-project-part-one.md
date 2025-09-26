@@ -19,8 +19,8 @@ Through this project, I aim to highlight the importance of exhibitions and digit
 
 ## Project Structure
 ### 1. Beginning – Arts and Museums as Economic and Cultural Drivers
- **1.1  State-Level Estimates of the Arts’ Economic Value and Employment (2001–2023)**: Value added to each state’s economy by the arts.
- **1.2  U.S. Arts and Cultural Production Satellite Account**: Type of production of arts and cultural goods and their contribution to the U.S. economy and annual growth.
+- **State-Level Estimates of the Arts’ Economic Value and Employment (2001–2023)**: Value added to each state’s economy by the arts.
+- **U.S. Arts and Cultural Production Satellite Account**: Type of production of arts and cultural goods and their contribution to the U.S. economy and annual growth.
 - Framing Point: Arts and culture are not just leisure activities — they are major contributors to the economy and employment, making museums vital players in this ecosystem.
 
 ### 2. Importance of Museums – Public Participation and Engagement
@@ -28,8 +28,8 @@ Through this project, I aim to highlight the importance of exhibitions and digit
 - Framing Point: Museums are a key touchpoint for cultural participation, proving their relevance to both local and national audiences.
 
 ### 3. Exhibitions as the Core of Museums
- **3.1  Art Museums by the Numbers 2018 (AAMD)**: Museum operating budgets highlight exhibitions as a central function, representing the largest proportion of overall expenses.
- **3.2  Occupations & Staffing (DataUSA)**: Occupations by industries, salaries, major, education levels in archivists, curators, and museum technicians. 
+- **Art Museums by the Numbers 2018 (AAMD)**: Museum operating budgets highlight exhibitions as a central function, representing the largest proportion of overall expenses.
+- **Occupations & Staffing (DataUSA)**: Occupations by industries, salaries, major, education levels in archivists, curators, and museum technicians. 
 - Framing Point: Exhibitions are resource-intensive, driving staffing needs and budgets, and thus must remain a priority in museum planning and funding.
 
 ### 4. Evolution of Digital Collections – Expanding Access and Expectations
