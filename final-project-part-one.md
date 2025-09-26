@@ -51,25 +51,25 @@ Call to Action: To maintain relevance and accessibility, museums must secure fun
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
 #### State-Level Estimates of the Arts’ Economic Value and Employment (2001–2023)
-<img src="1.1.jpg" alt="Portfolio image" width="800">
+<img src="1.1.jpg" alt="Portfolio image" width="600">
 
 #### U.S. Arts and Cultural Production Satellite Account
-<img src="1.2.jpg" alt="Portfolio image" width="800">
+<img src="1.2.jpg" alt="Portfolio image" width="600">
 
 #### 2020 Arts Basic Survey
-<img src="2.jpg" alt="Portfolio image" width="800">
+<img src="2.jpg" alt="Portfolio image" width="600">
 
 ### Art Museums by the Numbers 2018 (AAMD)
-<img src="3.1.jpg" alt="Portfolio image" width="800">
+<img src="3.1.jpg" alt="Portfolio image" width="600">
 
 #### Occupations & Staffing (DataUSA)
-<img src="3.2.jpg" alt="Portfolio image" width="800">
+<img src="3.2.jpg" alt="Portfolio image" width="600">
 
 #### Major Museum Digital Collections
-<img src="4.1.jpg" alt="Portfolio image" width="800">
+<img src="4.1.jpg" alt="Portfolio image" width="600">
 
 #### Audience Expectations of Museums Online
-<img src="4.2.jpg" alt="Portfolio image" width="800">
+<img src="4.2.jpg" alt="Portfolio image" width="600">
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
