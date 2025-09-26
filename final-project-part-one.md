@@ -51,25 +51,25 @@ Call to Action: To maintain relevance and accessibility, museums must secure fun
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
 #### State-Level Estimates of the Arts’ Economic Value and Employment (2001–2023)
-<img src="1.1.jpg" alt="Portfolio image" width="600">
+<img src="1.1.jpg" alt="Portfolio image" width="400">
 
 #### U.S. Arts and Cultural Production Satellite Account
-<img src="1.2.jpg" alt="Portfolio image" width="600">
+<img src="1.2.jpg" alt="Portfolio image" width="400">
 
 #### 2020 Arts Basic Survey
-<img src="2.jpg" alt="Portfolio image" width="600">
+<img src="2.jpg" alt="Portfolio image" width="450">
 
 ### Art Museums by the Numbers 2018 (AAMD)
-<img src="3.1.jpg" alt="Portfolio image" width="600">
+<img src="3.1.jpg" alt="Portfolio image" width="450">
 
 #### Occupations & Staffing (DataUSA)
-<img src="3.2.jpg" alt="Portfolio image" width="600">
+<img src="3.2.jpg" alt="Portfolio image" width="450">
 
 #### Major Museum Digital Collections
-<img src="4.1.jpg" alt="Portfolio image" width="600">
+<img src="4.1.jpg" alt="Portfolio image" width="450">
 
 #### Audience Expectations of Museums Online
-<img src="4.2.jpg" alt="Portfolio image" width="600">
+<img src="4.2.jpg" alt="Portfolio image" width="450">
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
@@ -85,7 +85,7 @@ The final group of datasets focuses on digital collections. Open-access collecti
 > A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
 | **Name** | **URL** | **Description** |
-|---|---|----------|
+|---|---|---|
 | U.S. Arts and Cultural Production Satellite Account (NEA/BEA) | https://www.arts.gov/impact/research/arts-data-profile-series/adp-36 | National data on production of arts & cultural goods and their contribution to GDP, employment, and average annual growth. |
 | State-Level Estimates of the Arts’ Economic Value and Employment (NEA/BEA) | https://www.arts.gov/impact/research/arts-data-profile-series/37 | State-level arts value-added, workers’ compensation, and employment (2001–2023). |
 | Arts Basic Survey 2020 (NEA) | https://www.arts.gov/impact/research/arts-data-profile-series/adp-32 | National survey on arts participation, including attendance at live events and personal art-making. |
@@ -99,13 +99,6 @@ The final group of datasets focuses on digital collections. Open-access collecti
 | Art Institute of Chicago — Data Service | https://github.com/art-institute-of-chicago?utf8=%E2%9C%93&q=data-service&type=&language= | Open API endpoints for AIC collection data (objects, images, metadata). |
 | National Gallery of Art — Open Data | https://github.com/NationalGalleryOfArt/opendata | Public open-data repository for NGA collection metadata and digitized works. |
 
-
-
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
