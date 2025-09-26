@@ -74,7 +74,7 @@ Call to Action: To maintain relevance and accessibility, museums must secure fun
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
-Text here...
+My project draws from federal surveys, museum field reports, and open-access collections to examine how exhibitions and digital platforms sustain museums. From the NEA and BEA, I will use the State-Level Estimates of the Arts’ Economic Value and Employment (2001–2023) and the U.S. Arts and Cultural Production Satellite Account to show how the arts contribute to GDP, employment, and growth. The Arts Basic Survey (2020) and state-level reports (10 States Study and State of the Arts 2024) provide participation patterns, framing museums as central to cultural engagement. To analyze museum operations, I will use AAMD’s Art Museums by the Numbers 2018 and DataUSA profiles on museums and museum professionals. These sources highlight exhibitions as a major budget item and staffing driver. Finally, I will draw from open-access datasets at MoMA, The Met, the National Gallery of Art, and the Cleveland Museum of Art, alongside survey data on visitor expectations anbout museum websites. These demonstrate the expansion of digital collections and the growing demand for online access.
 
 > A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
