@@ -86,19 +86,18 @@ The final group of datasets focuses on digital collections. Open-access collecti
 
 | **Name** | **URL** | **Description** |
 |---|---|---|
-| U.S. Arts and Cultural Production Satellite Account (NEA/BEA) | https://www.arts.gov/impact/research/arts-data-profile-series/adp-36 | National data on production of arts & cultural goods and their contribution to GDP, employment, and average annual growth. |
-| State-Level Estimates of the Arts’ Economic Value and Employment (NEA/BEA) | https://www.arts.gov/impact/research/arts-data-profile-series/37 | State-level arts value-added, workers’ compensation, and employment (2001–2023). |
-| Arts Basic Survey 2020 (NEA) | https://www.arts.gov/impact/research/arts-data-profile-series/adp-32 | National survey on arts participation, including attendance at live events and personal art-making. |
-| 10 States Study (SMU DataArts) | https://smu.app.box.com/s/xy5isghxhfc20ac8uclh0qe46tfpgnyz/file/1717104448334 | State-level estimates of arts participation patterns across selected U.S. states. |
-| Art Museums by the Numbers 2018 (AAMD) | https://aamd.org/our-members/from-the-field/art-museums-by-the-numbers-2018 | Field report on museum operations, budgets, staffing, attendance, and collection growth (with emphasis on exhibitions). |
-| DataUSA — Archivists, Curators, Museum Technicians | https://datausa.io/profile/soc/archivists-curators-museum-technicians?majors-select=commonMajors&degree-majors=bachelorsDegree | Workforce data for museum professions: occupations, salaries, degree backgrounds, and employment distribution. |
-| Attitudes and Expectations Concerning Museums and Museum Websites | https://marty.cci.fsu.edu/preprints/marty_mmc2008.pdf?utm_source=chatgpt.com | Survey on visitor perceptions and expectations of museum websites and digital access. |
-| Cleveland Museum of Art — Open Access API | https://github.com/ClevelandMuseumArt/openaccess | Open-access collection data and images; artwork metadata by type, year, and genre. |
-| Museum of Modern Art (MoMA) — Collection Dataset | https://github.com/MuseumofModernArt/collection?utm_source=chatgpt.com | Open dataset of MoMA’s collection with artist/artwork metadata and digital availability. |
-| The Met — Open Access API | https://github.com/metmuseum/openaccess | Open-access dataset and images for The Met collection across departments. |
-| Art Institute of Chicago — Data Service | https://github.com/art-institute-of-chicago?utf8=%E2%9C%93&q=data-service&type=&language= | Open API endpoints for AIC collection data (objects, images, metadata). |
-| National Gallery of Art — Open Data | https://github.com/NationalGalleryOfArt/opendata | Public open-data repository for NGA collection metadata and digitized works. |
-
+| U.S. Arts and Cultural Production Satellite Account (NEA/BEA) | [https://www.arts.gov/impact/research/arts-data-profile-series/adp-36](https://www.arts.gov/impact/research/arts-data-profile-series/adp-36) | National data on production of arts & cultural goods and their contribution to GDP, employment, and average annual growth. |
+| State-Level Estimates of the Arts’ Economic Value and Employment (NEA/BEA) | [https://www.arts.gov/impact/research/arts-data-profile-series/37](https://www.arts.gov/impact/research/arts-data-profile-series/37) | State-level arts value-added, workers’ compensation, and employment (2001–2023). |
+| Arts Basic Survey 2020 (NEA) | [https://www.arts.gov/impact/research/arts-data-profile-series/adp-32](https://www.arts.gov/impact/research/arts-data-profile-series/adp-32) | National survey on arts participation, including attendance at live events and personal art-making. |
+| 10 States Study (SMU DataArts) | [https://smu.app.box.com/s/xy5isghxhfc20ac8uclh0qe46tfpgnyz/file/1717104448334](https://smu.app.box.com/s/xy5isghxhfc20ac8uclh0qe46tfpgnyz/file/1717104448334) | State-level estimates of arts participation patterns across selected U.S. states. |
+| Art Museums by the Numbers 2018 (AAMD) | [https://aamd.org/our-members/from-the-field/art-museums-by-the-numbers-2018](https://aamd.org/our-members/from-the-field/art-museums-by-the-numbers-2018) | Field report on museum operations, budgets, staffing, attendance, and collection growth (with emphasis on exhibitions). |
+| DataUSA — Archivists, Curators, Museum Technicians | [https://datausa.io/profile/soc/archivists-curators-museum-technicians?majors-select=commonMajors&degree-majors=bachelorsDegree](https://datausa.io/profile/soc/archivists-curators-museum-technicians?majors-select=commonMajors&degree-majors=bachelorsDegree) | Workforce data for museum professions: occupations, salaries, degree backgrounds, and employment distribution. |
+| Attitudes and Expectations Concerning Museums and Museum Websites | [https://marty.cci.fsu.edu/preprints/marty_mmc2008.pdf?utm_source=chatgpt.com](https://marty.cci.fsu.edu/preprints/marty_mmc2008.pdf?utm_source=chatgpt.com) | Survey on visitor perceptions and expectations of museum websites and digital access. |
+| Cleveland Museum of Art — Open Access API | [https://github.com/ClevelandMuseumArt/openaccess](https://github.com/ClevelandMuseumArt/openaccess) | Open-access collection data and images; artwork metadata by type, year, and genre. |
+| Museum of Modern Art (MoMA) — Collection Dataset | [https://github.com/MuseumofModernArt/collection?utm_source=chatgpt.com](https://github.com/MuseumofModernArt/collection?utm_source=chatgpt.com) | Open dataset of MoMA’s collection with artist/artwork metadata and digital availability. |
+| The Met — Open Access API | [https://github.com/metmuseum/openaccess](https://github.com/metmuseum/openaccess) | Open-access dataset and images for The Met collection across departments. |
+| Art Institute of Chicago — Data Service | [https://github.com/art-institute-of-chicago?utf8=%E2%9C%93&q=data-service&type=&language=](https://github.com/art-institute-of-chicago?utf8=%E2%9C%93&q=data-service&type=&language=) | Open API endpoints for AIC collection data (objects, images, metadata). |
+| National Gallery of Art — Open Data | [https://github.com/NationalGalleryOfArt/opendata)](https://github.com/NationalGalleryOfArt/opendata) | Public open-data repository for NGA collection metadata and digitized works. |
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
