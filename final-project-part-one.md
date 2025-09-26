@@ -84,8 +84,8 @@ The final group of datasets focuses on digital collections. Open-access collecti
 
 > A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
-| **Name** | **URL** | **Description**                    |
-|---|---|---|
+| **Name** | **URL** | **Description** |
+|---|---|----------|
 | U.S. Arts and Cultural Production Satellite Account (NEA/BEA) | https://www.arts.gov/impact/research/arts-data-profile-series/adp-36 | National data on production of arts & cultural goods and their contribution to GDP, employment, and average annual growth. |
 | State-Level Estimates of the Arts’ Economic Value and Employment (NEA/BEA) | https://www.arts.gov/impact/research/arts-data-profile-series/37 | State-level arts value-added, workers’ compensation, and employment (2001–2023). |
 | Arts Basic Survey 2020 (NEA) | https://www.arts.gov/impact/research/arts-data-profile-series/adp-32 | National survey on arts participation, including attendance at live events and personal art-making. |
