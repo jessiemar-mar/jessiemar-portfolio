@@ -4,17 +4,18 @@
 > Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
 
 # Outline
-> My project will explore how museums can successfully manage their exhibition departments while establishing digital collection platforms, particularly in response to rising digital engagement. Exhibitions are often the driving force of museums — shaping audience experience, educational outreach, and revenue generation. Yet, sustaining them requires robust funding and efficient management.
+>Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
+
+My project will explore how museums can successfully manage their exhibition departments while establishing digital collection platforms, particularly in response to rising digital engagement. Exhibitions are often the driving force of museums — shaping audience experience, educational outreach, and revenue generation. Yet, sustaining them requires robust funding and efficient management.
 
 In addition, major museums are increasingly investing in digital collections to expand access, allowing the public to engage with artworks online for research, education, and pre-visit planning. This digital expansion, however, depends on increased awareness and financial support from donors and stakeholders.
 
 Through this project, I aim to highlight the importance of exhibitions and digital collections as essential components of museum sustainability. I will use data on audience participation, museum contributions to the economy, exhibition costs within museum budgets, and survey responses to digital collections. By presenting these insights, I hope to show why increased investment in exhibition departments and digital infrastructure is necessary for the future of museums.
  
-Text here...
 
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
-Text here...
+<img src="IMG_4323.jpeg" alt="Portfolio image" width="800">
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
