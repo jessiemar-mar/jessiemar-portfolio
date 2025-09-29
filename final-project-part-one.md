@@ -39,7 +39,7 @@ Framing Point: Digital collections are increasingly viewed as core infrastructur
 
 ### 5. Conclusion – Why Funding and Awareness Matter
 Synthesis:
-- Arts = mMjor economic and cultural sector
+- Arts = Major economic and cultural sector
 - Museums = Participation hubs
 - Exhibitions = Operational core
 - Digital collections = Further accessibility 
@@ -58,7 +58,7 @@ Call to Action: To maintain relevance and accessibility, museums must secure fun
 #### 2020 Arts Basic Survey
 <img src="2.jpg" alt="Portfolio image" width="450">
 
-### Art Museums by the Numbers 2018 (AAMD)
+#### Art Museums by the Numbers 2018 (AAMD)
 <img src="3.1.jpg" alt="Portfolio image" width="450">
 
 #### Occupations & Staffing (DataUSA)
