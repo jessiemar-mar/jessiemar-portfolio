@@ -15,13 +15,14 @@ Text here!
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
 
-Text here!
-
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+| Ensure clarity and visual consistency in data visualizations | Do you feel any distraction or confusion when looking at the charts (color, chart types, labels)? Please tell me which graphs and parts. |
+| Check whether the core narrative is clear | What message do you feel was emphasized most strongly throughout the story? |
+| Identify gaps or missing perspectives | What other information or perspectives would help make this story more complete or convincing for you? |
+| Test the effectiveness of the opening hook | When you look at the chart (very first one) showing the arts’ contribution to state economies, what does it tell you? Does it change how you think about museums’ value? |
+| Evaluate the curator expertise argument | When you see a chart (last second) on average wages and workforce size in arts management, does it highlight the value of curators’ expertise needed in museums? |
+| Assess the persuasiveness of digital collections | How convincing is the case for investing in digital collections and websites? |
 
 
 Text here!
