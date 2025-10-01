@@ -25,12 +25,8 @@ Text here!
 | Assess the persuasiveness of digital collections | How convincing is the case for investing in digital collections and websites? |
 
 
-Text here!
-
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
-
-Text here!
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
