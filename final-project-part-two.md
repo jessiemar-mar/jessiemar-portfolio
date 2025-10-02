@@ -49,7 +49,16 @@ Text here!
 
 > ...include any final thoughts you have here. 
 
-Text here!
+| Research synthesis (Findings or observations from interviews) | Anticipated changes for Part III |
+|---|---|
+| Some charts were confusing to read (small text, hard-to-navigate employment section). | Increase font size, simplify layout, and enlarge sections that were hard to follow. |
+| Color choices in certain charts (e.g., Visitor Preference pie charts, Top 10 States chart) may cause difficulty for colorblind viewers or reduce clarity. | Adjust color palette for higher contrast and accessibility. |
+| Audiences picked up on different messages: digital engagement, diversity of artists, economic decline, and cultural contribution to state economies. | Refine and clarify the core storyline so the central message is emphasized consistently. |
+| The first chart (Top 10 states by economic value) felt unnecessary or distracting to some participants. | Consider removing, simplifying, or reframing this chart to better support the main argument. |
+| Some interviewees asked for more detail on the type of “investment opportunity” being proposed. | Add explicit explanation of the investment area (e.g., digital collections, curatorial expertise) early in the story. |
+| The chart on average wages and workforce size was seen as confusing; not all participants found curators’ importance clearly highlighted. | Add annotations or text to connect the chart more directly to the value of curators. |
+| Strong agreement that the case for investing in digital collections and websites is convincing. | Emphasize digital participation trends more clearly and strengthen with additional supporting data. |
+
 
 # Moodboards / personas
 
