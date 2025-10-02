@@ -56,9 +56,11 @@ Text here!
 
 <img src="Moodboard.jpg" width="1000"/>
 
+<img src="Persona.jpg" width="1000"/>
+
 ## References
 _List any references you used here._
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I used ChatGPT to help refine my interview questions and suggest additional questions for consideration. I also used ChatGPT to improve the fluency and clarity of the HubSpot persona I initially generated. I used Gemini to generate the profile image for my persona.
 
