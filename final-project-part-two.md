@@ -53,9 +53,8 @@ Text here!
 Text here!
 
 # Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
 
-Text here!
+<img src="Moodboard.jpg" width="600"/>
 
 ## References
 _List any references you used here._
