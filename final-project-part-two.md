@@ -54,7 +54,7 @@ Text here!
 
 # Moodboards / personas
 
-<img src="Moodboard.jpg" width="600"/>
+<img src="Moodboard.jpg" width="1000"/>
 
 ## References
 _List any references you used here._
