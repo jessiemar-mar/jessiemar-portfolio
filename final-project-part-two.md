@@ -36,19 +36,6 @@ My approach was to identify individuals who represent potential supporters of mu
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
-Text here!
-
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
-
-> ...include any final thoughts you have here. 
 
 | Research synthesis (Findings or observations from interviews) | Anticipated changes for Part III |
 |---|---|
@@ -60,6 +47,7 @@ Text here!
 | The chart on average wages and workforce size was seen as confusing; not all participants found curators’ importance clearly highlighted. | Add annotations or text to connect the chart more directly to the value of curators. |
 | Strong agreement that the case for investing in digital collections and websites is convincing. | Emphasize digital participation trends more clearly and strengthen with additional supporting data. |
 
+I’ll add insights from an art consultant’s perspective, then wrap up with practical strategies and a call to action that integrates the evidence.
 
 # Moodboards / personas
 
@@ -71,5 +59,10 @@ Text here!
 _List any references you used here._
 
 ## AI acknowledgements
-I used ChatGPT to help refine my interview questions and suggest additional questions for consideration. I also used ChatGPT to improve the fluency and clarity of the HubSpot persona I initially generated. I used Gemini to generate the profile image for my persona.
+Uase of ChatGPT:
+- Refine my interview questions and suggest additional ones.
+- Improve the fluency and clarity of the HubSpot persona I drafted.
+- Identify additional research insights I hadn’t considered.
+
+I used Gemini to generate the profile image for my persona.
 
