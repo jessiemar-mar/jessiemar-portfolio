@@ -1,9 +1,10 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
-Text here!
+Storyboard on [Shorthand](https://preview.shorthand.com/RDyl2xuC3AAvIsN2) (Note: I couldn't publish due the requirement of team-lead permission, therefore this link is directed to the preview mode, I also sent an invitation to professor's email)
+
+I’m planning to refine the color palette and add context on the proposed strategies with supporting facts.
 
 # User research 
 
