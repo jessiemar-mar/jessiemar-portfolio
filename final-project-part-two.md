@@ -14,12 +14,12 @@ My approach was to identify individuals who represent potential supporters of mu
 
 | Goal | Questions to Ask |
 |------|------------------|
-| Ensure clarity and visual consistency in data visualizations | Do you feel any distraction or confusion when looking at the charts (color, chart types, labels)? Please tell me which graphs and parts. |
-| Check whether the core narrative is clear | What message do you feel was emphasized most strongly throughout the story? |
-| Identify gaps or missing perspectives | What other information or perspectives would help make this story more complete or convincing for you? |
-| Test the effectiveness of the opening hook | When you look at the chart (very first one) showing the arts’ contribution to state economies, what does it tell you? Does it change how you think about museums’ value? |
-| Evaluate the curator expertise argument | When you see a chart (last second) on average wages and workforce size in arts management, does it highlight the value of curators’ expertise needed in museums? |
-| Assess the persuasiveness of digital collections | How convincing is the case for investing in digital collections and websites? |
+| Assess the clarity and usability of the data visualizations. This determines whether the visual design choices (colors, chart types, labels) support comprehension or create distractions for the audience. | Do you feel any distraction or confusion when looking at the charts (color, chart types, labels)? Please tell me which graphs and parts. |
+| Evaluate whether the core narrative of the presentation is clear. This identifies if the emphasis on museum exhibitions and funding aligns with what the audience perceives as the main takeaway. | What message do you feel was emphasized most strongly throughout the story? |
+| Identify gaps or missing elements in the storyline. Responses highlight whether additional context—such as education, community impact, or comparisons with other industries—would strengthen persuasiveness. | What other information or perspectives would help make this story more complete or convincing for you? |
+| Test the effectiveness of the opening hook. This examines whether presenting the arts’ economic contribution captures attention and reshapes perceptions of the importance of museums. | When you look at the chart (very first one) showing the arts’ contribution to state economies, what does it tell you? Does it change how you think about museums’ value? |
+| Evaluate whether the data on wages and staffing communicates professional expertise. This measures if the audience views curators as essential professionals whose work merits investment. | When you see a chart (last second) on average wages and workforce size in arts management, does it highlight the value of curators’ expertise needed in museums? |
+| Assess the audience’s response to the digital collections argument. This identifies whether digital access is perceived as an essential investment for the future of museums or as a less compelling priority compared to physical exhibitions. | How convincing is the case for investing in digital collections and websites? |
 
 
 ## Interview findings
