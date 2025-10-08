@@ -29,13 +29,12 @@ Here are the things I want to learn in this course and to apply these skills in 
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
 ## Assignment: [Visualizing overnment Debt](https://jessiemar-mar.github.io/jessiemar-portfolio/dataviz-examples)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
-## Assignment 3&4: [Critique by Design](https://jessiemar-mar.github.io/jessiemar-portfolio/critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+## Assignment 3&4: [Critique by Design](https://jessiemar-mar.github.io/jessiemar-portfolio/critique-by-design) 
 
 ## Final project
-Here it might be helpful to include a high-level description of your final project. 
+My project will explore how museums can successfully manage their exhibition departments while establishing digital collection platforms, particularly in response to rising digital engagement. Exhibitions are often the driving force of museums — shaping audience experience, educational outreach, and revenue generation. Yet, sustaining them requires robust funding and efficient management.
+
 [Part I](https://jessiemar-mar.github.io/jessiemar-portfolio/final-project-part-one)
 [Part II](https://jessiemar-mar.github.io/jessiemar-portfolio/final-project-part-two)
 [Part III](https://jessiemar-mar.github.io/jessiemar-portfolio/final-project-part-three)
