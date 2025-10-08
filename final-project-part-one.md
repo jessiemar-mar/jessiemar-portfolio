@@ -1,10 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
 # Outline
->Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
 
 My project will explore how museums can successfully manage their exhibition departments while establishing digital collection platforms, particularly in response to rising digital engagement. Exhibitions are often the driving force of museums — shaping audience experience, educational outreach, and revenue generation. Yet, sustaining them requires robust funding and efficient management.
 
@@ -12,8 +9,6 @@ In addition, major museums are increasingly investing in digital collections to 
 
 Through this project, I aim to highlight the importance of exhibitions and digital collections as essential components of museum sustainability. I will use data on audience participation, museum contributions to the economy, exhibition costs within museum budgets, and survey responses to digital collections. By presenting these insights, I hope to show why increased investment in exhibition departments and digital infrastructure is necessary for the future of museums.
  
-
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
 <img src="IMG_4323.jpeg" alt="Portfolio image" width="800">
 
@@ -71,7 +66,6 @@ Call to Action: To maintain relevance and accessibility, museums must secure fun
 <img src="4.2.jpg" alt="Portfolio image" width="450">
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
 For this project, I will draw from a combination of federal surveys, museum field reports, and institutional open-access datasets. These sources provide economic, participation, and collection-level data that will allow me to analyze how exhibitions and digital collections contribute to the sustainability of museums.
 
@@ -99,14 +93,10 @@ The final group of datasets focuses on digital collections. Open-access collecti
 | National Gallery of Art — Open Data | [https://github.com/NationalGalleryOfArt/opendata)](https://github.com/NationalGalleryOfArt/opendata) | Public open-data repository for NGA collection metadata and digitized works. |
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
 
 For my final project, I plan to use Shorthand, Datawrapper, and Tableau as my primary tools. Before beginning the fabrication of data visualizations, I will develop a moodboard to establish the branding and visual direction of the project. This will guide my creative choices and ensure a consistent style throughout. I also intend to create a persona to help tailor headlines and subheadlines in language that resonates with my target audience.
 
 For data preparation, I will first use Excel for cleaning and consolidating datasets, particularly the large-scale open-access digital collection data from museums. Once I have organized clean sheets of data, I will implement them in Datawrapper and Tableau to design interactive, engaging visualizations. These will then be integrated into Shorthand to build a cohesive, narrative-driven final deliverable.
-
-## References
-_List any references you used here._
 
 ## AI acknowledgements
 I used AI to support this assignment by helping me research relevant data sources and proofread grammar and spelling in my writing.
