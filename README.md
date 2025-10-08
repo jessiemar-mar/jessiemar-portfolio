@@ -25,9 +25,6 @@ Here are the things I want to learn in this course and to apply these skills in 
 - Data Visualization Workshops
 - Final Project
 
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
-
 ## Assignment: [Visualizing overnment Debt](https://jessiemar-mar.github.io/jessiemar-portfolio/dataviz-examples)
 
 ## Assignment 3&4: [Critique by Design](https://jessiemar-mar.github.io/jessiemar-portfolio/critique-by-design) 
