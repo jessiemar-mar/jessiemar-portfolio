@@ -21,13 +21,11 @@ Informed by interview feedback, I also refined my visual language using a moodbo
 Please check the detailed references on my Shorthand story.
 
 ## AI acknowledgements
-> If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here.
-
-Text here!
+Uase of ChatGPT:
+- Grammar check and fluency on my draft final decision.
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
+Looking back, I wish I had started thinking outside the box earlier. At first, I focused mainly on encouraging donors to invest in exhibitions and digital collections because I noticed clear trends and influences from the survey data. The data revealed important facts about societal engagement, but I overlooked a key question—why should donors care about these numbers? I realized that effective storytelling for philanthropy requires more than presenting facts; it needs to emotionally connect with donors and motivate them from the very beginning. For example, highlighting the recent cuts to IMLS funding and how they threaten museum operations and programming could make the issue more urgent and relatable. Using real news or tangible examples helps ground the story in reality and invites donors to see the direct impact of their potential support. If I had spent more time drafting multiple outlines and experimenting with different narrative paths, I could have explored a wider range of data and identified which insights would truly hold value for donors and sustain their interest throughout the story.
 
-Text here!
-
+Additionally, working with the radar chart comparing major museums’ digital collections was a highlight. It was fascinating to see how each museum’s focus—shaped by its mission, collection strengths, and art movements—visually emerged through the data. This reinforced how visual tools can reveal the deeper curatorial identities that define institutions.
 
