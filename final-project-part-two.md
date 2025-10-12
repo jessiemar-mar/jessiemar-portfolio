@@ -55,9 +55,6 @@ I’ll add insights from an art consultant’s perspective, then wrap up with pr
 
 <img src="Persona.jpg" width="1000"/>
 
-## References
-_List any references you used here._
-
 ## AI acknowledgements
 Uase of ChatGPT:
 - Refine my interview questions and suggest additional ones.
