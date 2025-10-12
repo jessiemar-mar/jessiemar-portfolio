@@ -2,7 +2,7 @@
 
 # Wireframes / storyboards
 
-Storyboard on [Shorthand](https://preview.shorthand.com/RDyl2xuC3AAvIsN2](https://carnegiemellon.shorthandstories.com/the-future-of-museum-investment-exhibitions-and-digital-access/index.html) 
+Storyboard on [Shorthand](https://carnegiemellon.shorthandstories.com/the-future-of-museum-investment-exhibitions-and-digital-access/index.html) 
 
 I’m planning to refine the color palette and add context on the proposed strategies with supporting facts.
 
